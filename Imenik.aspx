@@ -49,7 +49,7 @@
                 <br />
 
                 <asp:GridView ID="GridView1" runat="server" HeaderStyle-ForeColor="Wheat" HeaderStyle-BackColor="#264c73"
-                     BorderColor="Gray" RowStyle-BorderColor="gray" RowStyle-HorizontalAlign="Left" BorderWidth="1px">
+                     BorderColor="Gray" RowStyle-BorderColor="gray" RowStyle-HorizontalAlign="Left" BorderWidth="1px" Width="100%">
 
 
                 </asp:GridView>          
