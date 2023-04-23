@@ -122,6 +122,8 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Imenik.aspx" />
+    <Content Include="imenik.txt" />
+    <Content Include="Podaci\Imenik.txt" />
     <Content Include="KorisnickoUputstvo.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -206,6 +208,7 @@
     <Compile Include="KorisnickoUputstvo.aspx.designer.cs">
       <DependentUpon>KorisnickoUputstvo.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Korisnik.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
