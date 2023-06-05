@@ -27,9 +27,12 @@
 <!--Ovu stranicu koristiti u serverskim zadacima gde se trazi stranica sa uputstvom.
     Za klijentske zadatke ubaciti u html stranicu div sa klasom uputstvo kao i ovde,
     isto u div klase container.-->
-                    Veb aplikacije agencije za nekretnine za pretragu informacija o korisnicima.
-                    Korisnik unosom podataka u tekstualna polja, izborom iz padajuće liste i klikom na dugme traži
-                    može pronaći podatke o korisnicima prema zadatim kriterijumima. Podaci se ispisuju u tabeli.
+                    Veb aplikacije agencije za nekretnine za pretragu informacija o korisnicima. Veb aplikacija
+                    ima 3 stranice. Na stranici Imenik
+                    korisnik unosom podataka u tekstualna polja, izborom iz padajuće liste i klikom na dugme traži
+                    može pronaći podatke o korisnicima prema zadatim kriterijumima. Podaci se ispisuju u tabeli. 
+                    Na stranici važni telefoni se nalazi spisak važnih telefona. Na stranici korisničko uputstvo se nalazi uputstvo
+                    aplikacije.
                     
 
                    
